@@ -81,4 +81,4 @@ When training a model for the first time, do the following:
   series = {CVIPPR '24}
 }
 ```
-For questions, please contact [asemorales.tech@gmail.com](mailto:asemorales.tech@gmail.com).
+For questions, please contact [irish.morales@alumni.ateneo.edu](mailto:irish.morales@alumni.ateneo.edu).
